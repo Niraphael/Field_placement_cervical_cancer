@@ -2,7 +2,7 @@
 # Field placement II                                                       *
 # May 21, 2024                                                             *
 
-# Group: Raphael Ndahimana, Melissa Uwase                                  *
+# Group Member: Raphael Ndahimana, Melissa Uwase                                  *
 
 # CERVICAL CANCER SURVIVAL ANALYSIS                                        *
 
